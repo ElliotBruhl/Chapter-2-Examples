@@ -1,1 +1,1 @@
-# Chapter-2-Examples
+Ex-2-Calculating-A-Discount
